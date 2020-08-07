@@ -1,0 +1,36 @@
+.form-container {
+    background-color: #2c5046;
+    height: 70vh;
+    padding: 100px 50px 0 50px;
+    margin: auto;
+}
+
+input[type='text'] {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    width: 100%;
+    display: block;
+    padding-bottom: 4px;
+    color: #fff !important;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+button {
+    border: 0;
+    padding: 8px 20px;
+    margin: 2 2px;
+    border-radius: 2px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #000;
+    color: #fff;
+    outline: none;
+}
